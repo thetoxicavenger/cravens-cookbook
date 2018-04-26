@@ -1,0 +1,22 @@
+{
+  "name": "cravenscookbook",
+  "version": "1.0.0",
+  "description": "A communal cookbook app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetoxicavenger/cravens-cookbook.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Mitchell R Cravens (github: thetoxicavenger)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thetoxicavenger/cravens-cookbook/issues"
+  },
+  "homepage": "https://github.com/thetoxicavenger/cravens-cookbook#readme"
+}
